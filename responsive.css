@@ -1,0 +1,297 @@
+@media screen and (width >= 1440px){
+  .container {
+    width: 100%;
+  } 
+
+  h1 {
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 57px;
+    letter-spacing: -0.75px;
+  }
+
+  h2  {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.15px;
+  }
+
+  h3 {
+    font-weight: 600px;
+    font-size: 40px;
+    line-height: 45px;
+    letter-spacing: -0.59px;
+  }
+
+  h4 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.39px;
+  }
+
+  .secondcontenttexts h4{
+    width: 350px;
+    height: 30px;
+    text-align: start;
+  }
+
+  .easily {
+    width: 350px;
+    height: 60px;
+    text-align: start;
+    letter-spacing: 0.12px;
+    line-height: 30px;
+  }
+
+  .instantly {
+    width: 350px;
+    height: 60px;
+    text-align: start;
+    letter-spacing: 0.12px;
+    line-height: 30px;
+  }
+
+  .retrieve {
+    width: 350px;
+    height: 60px;
+    text-align: start;
+    letter-spacing: 0.12px;
+    line-height: 30px;
+  }
+
+
+  .content h3 {
+    width: 730px;
+    height: 45px;
+    text-align: center;
+  }
+
+  .content h2 {
+    width: 730px;
+    height: 90px;
+    line-height: 30px;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0.14px;
+  }
+
+  .header h1 {
+    width: 730px;
+    height: 58px;
+    text-align: center;
+  }
+
+  .header h2  {
+    width: 730px;
+    height: 60px;
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(./assets/Bitmap\ 2\ \(1\).png);
+    background-size: 100% 100%;
+    background-position: center;
+  }
+
+  .buttondiv {
+    display: flex;
+    flex-direction: row;
+    column-gap: 16px;
+  }
+
+  .midcontent {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 100%;
+
+  }
+
+  button {
+    cursor: pointer;
+  }
+
+
+  .mac {
+    width: 752px;
+    height: 572px;
+    position: relative;
+    left: -40%;
+    margin-top: 15px;
+  }
+
+  .secondcontenttexts {
+    position: relative;
+    right: 15%;
+  }
+
+  .iphoneandtabletdesktop{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 90px;
+  }
+
+  .thirdcontent {
+    width: 100%;
+  }
+
+  .thirdcontentlasttext h3 {
+    width: 730px;
+    height: 45px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: -0.59px;
+    line-height: 45px;
+  }
+
+  .thirdcontentlasttext h2{
+    width: 730px;
+    height: 30px;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.14px;
+    margin-top: 10px;
+  }
+
+  .thirdcontent h3{
+    width: 730px;
+    height: 45px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 45px;
+    letter-spacing: -0.59px;
+    text-align: center;
+  }
+
+  .thirdcontent h2 {
+    width: 730px;
+    height: 60px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.14px;
+    text-align: center;
+  }
+
+  .deskimg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .iphoneandtablet {
+    display: none;
+
+  }
+
+  .iphoneandtabletdesk {
+    display: flex;
+    margin: 0;
+    margin-top: 111px;
+    margin-bottom: 120px;
+  }
+  
+  .fourthcontent {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+  }
+
+
+  .buttons {
+    display: flex;
+    flex-direction: row;
+    column-gap: 16px;
+  }
+
+  .imaccmob {
+    width: 752px;
+    height: 572px;
+    position: absolute;
+    left: -35%;
+    top: 0;
+  }
+
+  .secondcontenttexts{
+    position: relative;
+    left: 20%;
+    top: 50px;
+  }
+
+  .compone{
+    display: none;
+  }
+
+  .compsec{
+    display: flex;
+  }
+
+  .buttonbox h4{
+    width: 730px;
+    height: 45px;
+    font-weight: 600;
+    font-style: 40px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: -0.59px;
+
+  }
+
+  .footerdesk h6{
+    margin: 0;
+    text-align: start;
+  }
+
+  .footerdesk{
+    display: flex;
+    column-gap: 90px;
+    width: 925px;
+    height: 70x;
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  
+  }
+
+  .icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: -30%;
+    bottom: 24%;
+  }
+
+  .footermob{
+    display: none;
+  }
+
+  .buttonbox h2 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.14px;
+    width: 730px;
+    height: 60px;
+  }
+
+  .footer{
+    width: 100%;
+    height: 150px;
+    align-items: baseline;
+    justify-content: center;
+  }
+
+  
+} 
